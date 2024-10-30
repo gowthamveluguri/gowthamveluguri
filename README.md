@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gowthamveluguri
+# 👋 Hi, I’m Gowtham Veluguri
 - 🌱 I’m currently learning Mobile Application Developement
 - 💞️ I’m looking to collaborate on Real time Projects
 
